@@ -3,7 +3,6 @@
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
-test
     
 define('LARAVEL_START', microtime(true));
 
